@@ -1,4 +1,4 @@
-# 🤖 FERIX MINK WhatsApp Bot
+# 🤖 FERIX MINI WhatsApp Bot
 
 <div align="center">
 
